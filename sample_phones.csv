@@ -1,0 +1,8 @@
+name,brand,price,ram_gb,storage_gb,battery_mah,charging_w,processor_tier,processor_name,main_camera_mp,front_camera_mp,has_ois,screen_type,screen_refresh_hz
+NovaLite 5G,NovaTech,199,6,128,5000,18,Budget,Helio G99 Octa-Core,50,8,False,LCD,90
+Apex Stellar Pro,Apex,899,12,256,4800,80,Flagship,Snapdragon 8 Gen 3,50,32,True,AMOLED,120
+Veloce Cyber Gaming 8,Veloce,499,16,256,6000,67,Upper Mid-range,Snapdragon 7+ Gen 3,64,16,False,AMOLED,144
+Lumina PhotoMaster X,Lumina,649,8,256,4600,65,Upper Mid-range,Dimensity 8200,108,32,True,OLED,120
+Echo Daily M2,Echo,139,4,64,5000,10,Entry,Unisoc T616 Octa-Core,13,5,False,LCD,60
+Aura Balance 7,Aura,349,8,128,5000,33,Mid-range,Snapdragon 6 Gen 1,50,16,True,AMOLED,120
+Horizon Max Ultra,Horizon,1099,16,512,5400,100,Flagship,Snapdragon 8 Gen 3 Extreme,200,50,True,LTPO AMOLED,120
